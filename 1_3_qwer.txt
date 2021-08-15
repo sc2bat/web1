@@ -1,0 +1,12 @@
+줄바꿈
+br, p
+
+br 은 태그를 닫지 않는다
+
+p 는 단락을 나눔
+시각적으로는 단점이 존재함
+
+css 문법 태그와 태그 사이의 문법 margin
+stlye
+<p style="margin-top:45px;">
+40 pixel 만큼 떨어지게

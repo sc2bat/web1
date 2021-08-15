@@ -1,0 +1,24 @@
+https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck
+
+https://opentutorials.org/module/516
+
+https://docs.oracle.com/en/java/javase/16/
+
+Java
+시스템 통합 프로젝트 대부분 자바로 구현
+System Integration 
+
+객체 지향 중요하지만 필수적
+진입장벽이 높다
+
+안드로이드 앱을 위해서라면 자바가 좋다
+
+자바 홈페이지
+
+학습은 신속하고 기민하게
+
+실습은 천천히
+
+한 번 훑어보고 다시 한 번 더 
+
+window chrome ctrl + o 파일 선택
