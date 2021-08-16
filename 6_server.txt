@@ -1,0 +1,17 @@
+깃허브에서 제공하는 서버컴을 이용해서
+
+github settings GitHub Pages Branch main root save
+
+ Your site is ready to be published at https://sc2bat.github.io/web1/
+
+웹호스팅
+
+search 'web hosting'
+search 'static web hosting'
+search 'free static web hosting'
+
+https://bitballoon.com
+http://neocities.org
+Azure Blob
+Google Cloud Storage
+Amazon S3
